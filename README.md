@@ -1,3 +1,7 @@
+# Codeberg
+
+This repository was migrated to <https://codeberg.org/LabABI/TrIQ>.
+
 # TrIQ
 The TrIQ algorithm [1] drastically improves the contrast of mass spectrometry imaging data visualizations, as shown in the figure below (data from [2]).
 ![](fig-2-PeerJ.jpg)
